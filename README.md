@@ -172,3 +172,9 @@ platforms; compare numerical tolerances, not binary hashes.
   4th ed., Wiley, 1974: classical beam vibration background.
 
 MIT license; see [LICENSE](LICENSE). Contributions: [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Academic paper
+
+Read the [research note (PDF)](paper/paper.pdf), edit the [LaTeX source](paper/paper.tex),
+or follow the [compilation instructions](paper/README.md). The manuscript includes
+methods, measured validation, limitations, and references within five pages.
